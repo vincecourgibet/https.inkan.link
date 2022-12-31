@@ -5,7 +5,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 enableRobotsTXT = true
 canonifyURLs = true
 paginate = 9
@@ -13,14 +13,14 @@ darkmode_js = ["assets/js/darkmode.js"]
 enableInlineShortcodes = true
 
 [params]
-author = "Nusser Studios"
+author = "Inkan.link SAS"
 authorimage = "../assets/images/global/author.webp"
 github = "https://github.com/nusserstudios"
 facebook = "https://facebook.com/nusserstudios"
 og_image = "/images/tailbliss-cover.png"
-sitename = "TailBliss"
-twitter = "@nusserstudios"
-description = "TailBliss is Hugo Starter"
+sitename = "Inkan.link"
+twitter = "@inkan.link"
+description = "Inkan.link prevents identity theft"
 
 [markup]
 [markup.goldmark]
@@ -36,8 +36,8 @@ tag = "Tags"
 disable = false
 [privacy.googleAnalytics]
 anonymizeIP = true
-disable = false
-respectDoNotTrack = false
+disable = true
+respectDoNotTrack = true
 useSessionStorage = false
 [privacy.instagram]
 disable = false
