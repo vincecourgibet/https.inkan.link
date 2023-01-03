@@ -1,5 +1,5 @@
-baseURL = "https://tailbliss.netlify.app/"
-title = "TailBliss"
+baseURL = "https://inkan.link/"
+title = "Inkan.link"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -15,12 +15,12 @@ enableInlineShortcodes = true
 [params]
 author = "Inkan.link SAS"
 authorimage = "../assets/images/global/author.webp"
-github = "https://github.com/nusserstudios"
+github = "https://github.com/inkan-tech"
 facebook = "https://facebook.com/nusserstudios"
 og_image = "/images/tailbliss-cover.png"
 sitename = "Inkan.link"
 twitter = "@inkan.link"
-description = "Inkan.link prevents identity theft"
+description = "Inkan.link prevents identity theft consequences"
 
 [markup]
 [markup.goldmark]
@@ -40,14 +40,14 @@ disable = true
 respectDoNotTrack = true
 useSessionStorage = false
 [privacy.instagram]
-disable = false
+disable = true
 simple = false
 [privacy.twitter]
 disable = false
 enableDNT = false
 simple = false
 [privacy.vimeo]
-disable = false
+disable = true
 enableDNT = false
 simple = false
 [privacy.youtube]
