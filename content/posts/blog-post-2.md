@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus
   venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
   Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
 author: TailBliss
-authorimage: ../assets/images/global/author.webp
+authorimage: ../assets/images/global/SquircleLogoInkan.webp
 categories: blog
 tags: blog
 ---

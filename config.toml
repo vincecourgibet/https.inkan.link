@@ -14,7 +14,7 @@ enableInlineShortcodes = true
 
 [params]
 author = "Inkan.link SAS"
-authorimage = "../assets/images/global/author.webp"
+authorimage = "../assets/images/global/SquircleLogoInkan.webp"
 github = "https://github.com/inkan-tech"
 facebook = "https://facebook.com/nusserstudios"
 og_image = "/images/tailbliss-cover.png"
