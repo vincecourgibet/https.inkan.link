@@ -882,38 +882,38 @@ video {
 }
 
 .prose {
-  --tw-prose-body: #27272a;
-  --tw-prose-headings: #18181b;
-  --tw-prose-lead: #3f3f46;
-  --tw-prose-links: #18181b;
-  --tw-prose-bold: #18181b;
-  --tw-prose-counters: #52525b;
-  --tw-prose-bullets: #a1a1aa;
-  --tw-prose-hr: #d4d4d8;
-  --tw-prose-quotes: #18181b;
-  --tw-prose-quote-borders: #d4d4d8;
-  --tw-prose-captions: #3f3f46;
+  --tw-prose-body: #374151;
+  --tw-prose-headings: #111827;
+  --tw-prose-lead: #4b5563;
+  --tw-prose-links: #111827;
+  --tw-prose-bold: #111827;
+  --tw-prose-counters: #6b7280;
+  --tw-prose-bullets: #d1d5db;
+  --tw-prose-hr: #e5e7eb;
+  --tw-prose-quotes: #111827;
+  --tw-prose-quote-borders: #e5e7eb;
+  --tw-prose-captions: #6b7280;
   --tw-prose-code: #ef4444;
   --tw-prose-pre-code: #fca5a5;
   --tw-prose-pre-bg: #7f1d1d;
-  --tw-prose-th-borders: #d4d4d8;
-  --tw-prose-td-borders: #e4e4e7;
-  --tw-prose-invert-body: #e4e4e7;
+  --tw-prose-th-borders: #d1d5db;
+  --tw-prose-td-borders: #e5e7eb;
+  --tw-prose-invert-body: #d1d5db;
   --tw-prose-invert-headings: #fff;
-  --tw-prose-invert-lead: #d4d4d8;
+  --tw-prose-invert-lead: #9ca3af;
   --tw-prose-invert-links: #f87171;
   --tw-prose-invert-bold: #fff;
-  --tw-prose-invert-counters: #a1a1aa;
-  --tw-prose-invert-bullets: #e4e4e7;
-  --tw-prose-invert-hr: #71717a;
-  --tw-prose-invert-quotes: #f4f4f5;
-  --tw-prose-invert-quote-borders: #3f3f46;
-  --tw-prose-invert-captions: #a1a1aa;
+  --tw-prose-invert-counters: #9ca3af;
+  --tw-prose-invert-bullets: #4b5563;
+  --tw-prose-invert-hr: #374151;
+  --tw-prose-invert-quotes: #f3f4f6;
+  --tw-prose-invert-quote-borders: #374151;
+  --tw-prose-invert-captions: #9ca3af;
   --tw-prose-invert-code: #f87171;
   --tw-prose-invert-pre-code: #fca5a5;
   --tw-prose-invert-pre-bg: #111827;
-  --tw-prose-invert-th-borders: #f4f4f5;
-  --tw-prose-invert-td-borders: #71717a;
+  --tw-prose-invert-th-borders: #4b5563;
+  --tw-prose-invert-td-borders: #374151;
   font-size: 1rem;
   line-height: 1.75;
 }
@@ -4643,11 +4643,6 @@ EmojiSymbols;
   background-color: rgb(127 29 29 / 0.5);
 }
 
-.dark .dark\:bg-red-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
-}
-
 .dark .dark\:bg-amber-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(120 53 15 / var(--tw-bg-opacity));
@@ -4682,6 +4677,11 @@ EmojiSymbols;
 
 .dark .dark\:bg-orange-900\/50 {
   background-color: rgb(124 45 18 / 0.5);
+}
+
+.dark .dark\:bg-red-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:prose-invert {
