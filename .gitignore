@@ -6,3 +6,5 @@ yarn-error.log
 yarn-error.log
 .dccache
 **/_gen
+# do not upload public make it created by github actions
+public/
