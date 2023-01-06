@@ -3817,6 +3817,16 @@ video {
   color: rgb(244 63 94 / var(--tw-placeholder-opacity));
 }
 
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity));
+}
+
+.text-red-400 {
+  --tw-text-opacity: 1;
+  color: rgb(248 113 113 / var(--tw-text-opacity));
+}
+
 .placeholder-rose-500::placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(244 63 94 / var(--tw-placeholder-opacity));
@@ -4224,7 +4234,7 @@ EmojiSymbols;
   .md\:prose-lg :where(.md\:prose-lg > :last-child):not(:where([class~="not-prose"] *)) {
     margin-bottom: 0;
   }
-}
+
 
 .hover\:text-gray-300:hover {
   --tw-text-opacity: 1;
