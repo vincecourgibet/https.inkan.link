@@ -57,5 +57,5 @@ privacyEnhanced = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.105.0"
-    max = "0.105.0"
+    min = "0.107.0"
+    max = "0.109.0"
