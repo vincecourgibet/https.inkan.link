@@ -1,29 +1,20 @@
 ---
-title: "News Post 2"
+title: "Sealfie Post 1"
 date: 2022-04-18T11:10:36+08:00
 draft: true
-language: en
-featured_image: ../assets/images/featured/SquircleLogoInkan.webp
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
-authorimage: ../assets/images/global/SquircleLogoInkan.webp
-categories: News
-tags: News
----
-__Advertisement :smile:__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
+language: fr
+featured_image: images/posts/thomnico_a_selfie_portrait_of_a_businessman_in_the_shape_of_a_r_4cb2331e-761e-4602-a940-d59e7a2bd828.png
+summary: Bonjour Sealfie !
+description: Nous sommes ravi de vous présenter Sealfie la première solution de protèction contre l'arnaque au président.
+author: Inkan.link
+authorimage: images/featured/SquircleLogoInkan.webp 
+categories: blog
+tags: [blog ,sealfie]
 ---
 
-# h1 Heading :blush:
-## h2 Heading
+
+# Sealfie
+## Arnaque au président
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading

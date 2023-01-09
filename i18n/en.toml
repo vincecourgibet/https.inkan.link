@@ -1,2 +1,3 @@
+about = "About"
 [wordCount]
 other = "{{ .WordCount }} words"

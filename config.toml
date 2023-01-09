@@ -3,7 +3,7 @@ title = "Inkan.link"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-
+defaultContentLanguageInSubdir = false
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ darkmode_js = ["assets/js/darkmode.js"]
 enableInlineShortcodes = true
 
 [params]
-author = "Inkan.link SAS"
+author = "Inkan.link"
 authorimage = "../assets/images/global/SquircleLogoInkan.webp"
 github = "https://github.com/inkan-tech"
 facebook = "https://facebook.com/"
@@ -21,7 +21,8 @@ og_image = "/images/InkanLogo.webp"
 sitename = "Inkan.link"
 twitter = "@inkan.link"
 description = "Inkan.link prevents identity theft consequences"
-
+[params.navigation]
+      about = 'About'
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
@@ -53,6 +54,24 @@ simple = false
 [privacy.youtube]
 disable = false
 privacyEnhanced = true
+
+copyright = 'Inkan.link reserved'
+[languages]
+  [languages.en]
+    title = 'Inkan.link'
+    weight = 1
+    # [languages.en.params]
+    #   linkedin = 'https://linkedin.com/whoever'
+  [languages.fr]
+    title =  'Inkan.link'
+    weight = 2
+    [languages.fr.params]
+      # linkedin = 'https://linkedin.com/fr/whoever'
+        description = "Inkan.link protége des usurpations d'identité " 
+      [languages.fr.params.navigation]
+        about = 'A propos'
+
+
 
 [module]
   [module.hugoVersion]
