@@ -1,6 +1,6 @@
 {{define "main"}}
 <article>
-  <header class="mb-4 bg-slate-600">
+  <header class="mb-4 bg-slate-500">
     <span class="py-96">
       <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
         {{ .Title }}
@@ -16,10 +16,10 @@
       {{ $large := (.Resize "900x webp q80").RelPermalink }}
       {{ $featuredimage := (.Resize "1500x webp q80").RelPermalink }}
       <img src="{{ $featuredimage }}" srcset="
-        {{- with $small -}}, {{.}} 400w{{- end -}}
-        {{- with $medium -}}, {{.}} 550w{{- end -}}
-        {{- with $large -}}, {{.}} 768w{{- end -}}
-        {{- with $featuredimage -}}, {{.}} 1100w{{- end -}}"
+        {{- with $small -}}, ../..{{.}} 400w{{- end -}}
+        {{- with $medium -}}, ../..{{.}} 550w{{- end -}}
+        {{- with $large -}}, ../..{{.}} 768w{{- end -}}
+        {{- with $featuredimage -}}, ../..{{.}} 1100w{{- end -}} "
            class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-red-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40"
            width="100%" alt="{{ .Params.title }}" />
       {{ end }}
