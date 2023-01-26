@@ -5,7 +5,7 @@ yarn-error.log
 .netlify
 yarn-error.log
 .dccache
-.DS_Store
+**/.DS_Store
 **/_gen
 # do not upload public make it created by github actions
 public/
