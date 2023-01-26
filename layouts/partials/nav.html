@@ -116,7 +116,13 @@
                href={{ relLangURL "about" }}>
                {{ .Site.Params.navigation.about }}
             </a>
-            
+            <div>
+                <ul class="flex">
+                    {{ range $.Site.Home.AllTranslations }}
+                    <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
             <button id="theme-toggle" type="button"
                     class="p-2 text-sm text-red-500 rounded-lg md: dark:text-red-400 hover:bg-red-100 dark:hover:bg-red-700 focus:outline-none focus:ring-4 focus:ring-red-200 dark:focus:ring-red-700 md:ml-2 max-w-5 xs:hidden">
                 <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20"

@@ -2,7 +2,7 @@
 title: Blog Post 1
 date: 2022-06-18T11:10:36+08:00
 draft: true
-language: en
+language: fr
 featured_image: images/posts/editorial-commision-animate.webp
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec
   venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
