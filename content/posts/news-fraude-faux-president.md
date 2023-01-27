@@ -6,8 +6,7 @@ language: fr
 featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_theft_by_alphaspirit_gettyimages-538465604_2400x1600-100811607-large.webp
 summary: L'arnaque au faux président est la méthode la plus utilisés dans le top5 des
   tentatives de fraudes visant les entreprises.
-description: L'arnaque au faux président est la méthode la plus utilisés dans le top5 des
-  tentatives de fraudes visant les entreprises.
+description: L'arnaque au faux président, ou FOVI, Sealfie blockchain pour la sécurité.
 author: Nicolas Thomas
 authorimage: images/global/SquircleLogoInkan.webp
 categories: News
@@ -50,7 +49,7 @@ Pour s'en prémunir l'ANSSI fait des recommendations [ici](https://sisse.entrepr
 
 [En 5 ans 2 300 plaintes ont été déposées](https://www.morbihan.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Securite-informatique/L-arnaque-au-president-ou-escroquerie-aux-faux-ordres-de-virement-FOVI), et beaucoup d'autres ont cacher les attaques pour preserver leurs réputations. La protection par la discipline humaine et la formation ne marche pas sur la durée ou sans efforts constants. C'est pourquoi nous avons créé [Sealfie](https://sealf.ie/fr)
 
-## [![Sealfie](/images/sealfie-logo.png)](https://sealf.ie/fr)
+## [![Sealfie](/images/sealfie-landscape.png)](https://sealf.ie/fr)
 
 [Sealfie](https://sealf.ie/fr) est un SaaS et une application mobile. Elle permet de s'assurer et de pouvoir vérifier que les personnes dans la transaction sont autorisés, à chaque fois. L'application est simplissime a utiliser, sans formation, nous nous occupons des aspects technologiques.
 
