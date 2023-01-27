@@ -1,4 +1,4 @@
-baseURL = "https://inkan-tech.github.io/https.inkan.link/"
+baseURL = "https://inkan.link/"
 title = "Inkan.link"
 
 languageCode = "en-us"
@@ -31,6 +31,8 @@ unsafe = true
 [taxonomies]
 category = "Categories"
 tag = "Tags"
+[permalinks]
+    post = "/blog/:title/"
 
 [privacy]
 [privacy.disqus]
