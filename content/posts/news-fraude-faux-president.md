@@ -5,7 +5,7 @@ draft: false
 language: fr
 featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_theft_by_alphaspirit_gettyimages-538465604_2400x1600-100811607-large.webp
 summary: Présentation de Sealfie la premier compagnon digital de protection contre l'arnaque au faux président aui est le type de tentative de fraude visant les entreprises.
-description: Présentation de Sealfie la premier compagnon digital de protection contre l'arnaque au faux président aui est le type de tentative de fraude visant les entreprises. Sealfie crée un liste d'attestations sur blockchain ouverte, non répudiable. Sealfie est simplissime, nous nous occupons de la technologie. Nous .
+description: Sealfie la premier compagnon digital de protection contre l'arnaque au faux président. Le premier type de fraude visant les entreprises.
 author: Nicolas Thomas
 authorimage: images/global/SquircleLogoInkan.webp
 categories: News
