@@ -31,7 +31,7 @@ Les entreprises subissent 1/4 des fraudes avérées, 2/3 au moins une tentative 
 Les escroqueries de type "fraude au président" ou "au changement de RIB"  ont fait de nombreuses victimes parmi les entreprises françaises. La fraude se chiffre en millions d'euros et a aussi un impact psychologique dramatique sur les victimes.
 
 Les agences d'état en parlent: [L'arnaque au président ou escroquerie aux faux ordres de virement (FOVI)](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/escroquerie-faux-ordres-virement-fovi)
-Les criminels utilisent de vieilles techniques d'usurpations, ils ont fait leurs transitions numérique. Plus de masques à la Fantomas, les criminels utilisent la technologie, usurpent les mails, numéros de téléphones, la voie et même la video. Ils sont très bien renseignés sur l'entreprise et leurs discours sont crédibles.
+Les criminels utilisent de vieilles techniques d'usurpations, ils ont fait leurs transitions numérique. Plus de masques à la Fantomas, les criminels utilisent la technologie, usurpent les mails, numéros de téléphones, imitent la voie et même la video. Ils sont très bien renseignés sur l'entreprise et leurs discours sont crédibles.
 
 ## L'humain au cœur
 
