@@ -4,9 +4,8 @@ date: 2023-01-24T09:21:16+01:00
 draft: false
 language: fr
 featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_theft_by_alphaspirit_gettyimages-538465604_2400x1600-100811607-large.webp
-summary: L'arnaque au faux président est la méthode la plus utilisés dans le top5 des
-  tentatives de fraudes visant les entreprises.
-description: L'arnaque au faux président, ou FOVI, Sealfie blockchain pour la sécurité.
+summary: Présentation de Sealfie la premier compagnon digital de protection contre l'arnaque au faux président aui est le type de tentative de fraude visant les entreprises.
+description: Présentation de Sealfie la premier compagnon digital de protection contre l'arnaque au faux président aui est le type de tentative de fraude visant les entreprises. Sealfie crée un liste d'attestations sur blockchain ouverte, non répudiable. Sealfie est simplissime, nous nous occupons de la technologie. Nous .
 author: Nicolas Thomas
 authorimage: images/global/SquircleLogoInkan.webp
 categories: News
