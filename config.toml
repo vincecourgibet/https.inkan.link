@@ -3,7 +3,7 @@ title = "Inkan.link"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
