@@ -7,7 +7,7 @@ featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_
 summary: Présentation de Sealfie la premier compagnon digital de protection contre l'arnaque au faux président aui est le type de tentative de fraude visant les entreprises.
 description: Sealfie la premier compagnon digital de protection contre l'arnaque au faux président. Le premier type de fraude visant les entreprises.
 author: Nicolas Thomas
-authorimage: images/global/SquircleLogoInkan.webp
+authorimage: images/global/NicolasHeadShot.webp
 categories: News
 tags:
   - News
@@ -62,6 +62,6 @@ L'approche est de rendre fiable et vérifiable les transactions des personnes l�
 
 ## Aller plus loin
 
-Nous survolons les problématiques dans cette introduction, suivez-nous sur [linkedin](https://www.linkedin.com/company/inkan-link/) ou ce blog.
+Nous survolons les problématiques dans cette introduction, suivez-nous sur [LinkedIn](https://www.linkedin.com/company/inkan-link/) ou ce blog.
 
 Sur le site [Sealf.ie](https://sealf.ie/fr) vous trouverez plus de détails sur l'application mobile, nous contacter pour essayer une version de test et bien sur acheter la tranquillité d’esprit de ne plus avoir à vous inquiéter d'une faillite soudaine.
