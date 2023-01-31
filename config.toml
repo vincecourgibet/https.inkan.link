@@ -1,8 +1,8 @@
 baseURL = "https://inkan.link/"
 title = "Inkan.link"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableEmoji = true
 enableGitInfo = false
