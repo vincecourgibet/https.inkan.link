@@ -28,9 +28,4 @@
 	{{ range .Translations }}
 	<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
 	{{ end }}
-    <nav class="LangNav">
-        {{ range .Translations }}
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-        {{ end}}
-        </nav>
 {{ end }}
