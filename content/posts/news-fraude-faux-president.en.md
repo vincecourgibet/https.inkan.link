@@ -3,7 +3,7 @@ title: Fake CEO Fraud
 date: 2023-01-24T09:21:16+01:00
 draft: false
 featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_theft_by_alphaspirit_gettyimages-538465604_2400x1600-100811607-large.webp
-
+language: en
 summary: Presentation of Sealfie The first digital companion to protect against the false ceo scam .The most damageable type of fraud targeting companies.
 description: SEALFIE The first digital companion to protect against the false ceo scam. The most damageable type of fraud targeting companies.
 author: Nicolas Thomas
