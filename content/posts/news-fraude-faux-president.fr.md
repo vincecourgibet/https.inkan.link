@@ -15,7 +15,7 @@ tags:
 ---
 
 
-# [Sealfie](https://sealf.ie/fr) la protection contre l'arnaque au faux président
+## [Sealfie](https://sealf.ie/fr) la protection contre l'arnaque au faux président
 
 L'arnaque au faux président est la méthode la plus utilisés dans le top5 des tentatives de fraudes visant les entreprises.
 [![Allianz Trade](/images/Top5AllianzTrade.png )](https://www.allianz-trade.fr/actualites/etude-fraude-2021.html)
