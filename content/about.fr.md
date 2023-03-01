@@ -21,7 +21,7 @@ featured_image: images/featured/SquircleLogoInkan.webp
  Nous visons à créer une gamme de services, natif de confidentialité, sans friction, même si vous enregistrez des données sensibles.
  Nous résolvons une crise de confiance avec les fournisseurs de technologies en fournissant une expertise en technologie Inkan à nos clients.
 
-## Dòù viennent nos noms ?
+## D`où viennent nos noms ?
 
  Inkan est un mot japonais pour la signature avec un sceau. Il représente notre approche pour générer des données vérifiables et entièrement privées, puis les utiliser pour le compte du propriétaire des données pour les services numérique directs.
 
