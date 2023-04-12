@@ -9,14 +9,14 @@ featured_image: images/featured/SquircleLogoInkan.webp
 ---
 ## Inkan.link SAS
 
- Est une startup créée en 2021 par des professionnel chevronnés de la cybersécurité et un avocat.
+ Est une startup créée en 2021 par des professionnels chevronnés de la cybersécurité et un avocat.
 
 ## Certifie vos déclarations par chaînage d'attestations numériques
 
  Tout le monde laisse des traces numériques sur de nombreux systèmes. Ces données ne profitent jamais à l'utilisateur.
  Au mieux, les entités étatiques les utilisent dans des affaires pénales. Ces données sont précieuses du point de vue sécurité car elles sont faciles à créer et difficiles à usurper.
 
- Imaginez si ces systèmes pouvaient attester qu'ils ont des données liées à un utilisateur spécifique, automatiquement, sur la seule demande de l'utilisateur. On ouvre une nouvelle catégorie dans le monde numérique! Les données peuvent désormais bénéficier aux utilisateurs son utilisées pour créer une source d'information fiable. De plus, nous pouvons créer une nouvelle classe de services sans papier et «PDFless» sans avoir besoin que le fournisseur investit dans des solutions de cybersécurité complexes pour publier les données. La vérification des données dépend désormais des certifications multi-facteurs, générées à chaque déclaration.
+ Imaginez si ces systèmes pouvaient attester qu'ils ont des données liées à un utilisateur spécifique, automatiquement, sur la seule demande de l'utilisateur. On ouvre une nouvelle catégorie dans le monde numérique ! Les données peuvent désormais bénéficier aux utilisateurs sont utilisées pour créer une source d'information fiable. De plus, nous pouvons créer une nouvelle classe de services sans papier et «PDFless» sans avoir besoin que le fournisseur investit dans des solutions de cybersécurité complexes pour publier les données. La vérification des données dépend désormais des certifications multi-facteurs, générées à chaque déclaration.
 
  Nous visons à créer une gamme de services, natif de confidentialité, sans friction, même si vous enregistrez des données sensibles.
  Nous résolvons une crise de confiance avec les fournisseurs de technologies en fournissant une expertise en technologie Inkan à nos clients.
