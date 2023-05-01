@@ -1,7 +1,7 @@
 ---
 title: "Valeur Légale"
 date: 2023-04-27T11:10:36+08:00
-draft: false
+draft: true
 language: fr
 featured_image: images/posts/Comptable-1ere-ligne.jpeg
 summary: Bonjour Sealfie !
