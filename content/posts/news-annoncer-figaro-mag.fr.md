@@ -19,9 +19,11 @@ tags: [news ,sealfie, sécurité ,identité ,fraude ,fauxprésident ,interview ,
 
 ✅ Confiance et simplicité : Inkan.link gère les aspects technologiques pour vous
 
-🔗 [Lisez l'interview ici](https://www.lefigaro.fr/economie/inkan-link-optimisez-votre-securite-protegez-votre-identite-20230330)
 
 🔐 Protégez votre entreprise du premier risque de faillite en optimisant votre sécurité et en protégeant votre identité grâce à Sealfie, une solution facile à utiliser sans formation préalable.
+
+---
+{{< youtube 22lzekNe87w >}}
 
 Si vous êtes dirigeant, investisseur ou responsable financier, vous savez combien il est essentiel de pouvoir compter sur des partenaires fiables. C'est pourquoi nous avons créé Sealfie, pour vous aider à identifier et vérifier l'identité de vos interlocuteurs, y compris en interne, sans avoir besoin de compétences techniques particulières.
 
