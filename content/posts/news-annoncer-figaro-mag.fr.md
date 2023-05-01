@@ -4,7 +4,7 @@ date: 2023-01-14T11:10:36+08:00
 draft: false
 language: fr
 featured_image: images/posts/FIGARO_VIGNETTE_INKAN_LINK.jpg 
-summary: Bonjour Sealfie 
+summary: Notre fondateur vous présente Sealfie pour ne plus douter de vos donneurs d'ordres.
 description: Nous sommes ravi de vous présenter Sealfie la première solution de protection contre l'arnaque au président.
 author: Inkan.link
 authorimage: images/featured/SquircleLogoInkan.webp 

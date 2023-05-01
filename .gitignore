@@ -9,5 +9,5 @@ yarn-error.log
 **/_gen
 # do not upload public make it created by github actions
 public/
-.DS_Store/
+*/.DS_Store
 .DS_Store
