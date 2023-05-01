@@ -1,9 +1,9 @@
 ---
-title: "Fake CEO Fraud"
-date: 2022-04-18T11:10:36+08:00
+title: "Il faut sauver le soldat comptable"
+date: 2023-04-27T11:10:36+08:00
 draft: true
-language: en
-featured_image: images/posts/thomnico_a_selfie_portrait_of_a_businessman_in_the_shape_of_a_r_4cb2331e-761e-4602-a940-d59e7a2bd828.png
+language: fr
+featured_image: images/posts/Comptable-1ere-ligne.jpeg
 summary: Bonjour Sealfie !
 description: Nous sommes ravi de vous présenter Sealfie la première solution de protection contre l'arnaque au président.
 author: Inkan.link
