@@ -15,7 +15,7 @@ tags: [news ,sealfie, sécurité ,identité ,fraude ,fauxprésident ,interview ,
 
 💼 Protégez votre entreprise du premier risque de faillite avec Sealfie, sans formation nécessaire
 
-🎤 Découvrez l'interview de notre PDG dans Itinéraire Entreprise sur le site du [Figaro](https://www.lefigaro.fr/economie/inkan-link-optimisez-votre-securite-protegez-votre-identite-20230330)
+🎤 Découvrez l'interview de notre fondateur dans Itinéraire Entreprise sur le site du [Figaro](https://www.lefigaro.fr/economie/inkan-link-optimisez-votre-securite-protegez-votre-identite-20230330)
 
 ✅ Confiance et simplicité : Inkan.link gère les aspects technologiques pour vous
 
