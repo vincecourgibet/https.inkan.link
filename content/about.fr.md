@@ -26,6 +26,9 @@ featured_image: images/featured/SquircleLogoInkan.webp
  Inkan est un mot japonais pour la signature avec un sceau. Il représente notre approche pour générer des données vérifiables et entièrement privées, puis les utiliser pour le compte du propriétaire des données pour les services numérique directs.
 
  Notre premier produit [Sealfie](https://sealf.ie/fr) est un jeu sur les mots entre le sceau pour signer les choses et le selfie. Vos données sur n'importe quel système font une signature vérifiable, plus de griffonnage.
+ 
+ ## l'équipe 
+ 
 
  ***
 
