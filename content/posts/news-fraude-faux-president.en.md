@@ -1,5 +1,5 @@
 ---
-title: Fake CEO Fraud
+title: Fake CEO Fraud (BEC)
 date: 2023-01-24T09:21:16+01:00
 draft: false
 featured_image: images/posts/cso_nw_impersonation_disguise_fraud_false_identity_theft_by_alphaspirit_gettyimages-538465604_2400x1600-100811607-large.webp
@@ -16,8 +16,8 @@ tags:
 ## [Sealfie](https://sealf.ie/en) Protection against the fake CEO scam
 
  The fake ceo scam is the most used method in the TOP5 attempts at fraud targeting companies.
- [![Allianz trade](/images/Top5AllianzTrade.png)](https://www.allianz-trade.fr/actualites/etude-fraude-2021.html)
- Companies undergo 1/4 of the proven frauds, 2/3 at least one attempt according to [Study on the 2021 fraud of Allianz Trade (in french)](https://www.allianz-trade.fr/actualites/etude-fraude-2021.html).
+ [![FBI IC3 Report 2021](/images/FBI_IC3_Chart.png)](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf)
+ Companies undergo 1/4 of the proven frauds, 2/3 at least one attempt according to [Study on the 2021 fraud of Allianz Trade (in french)](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf).
 
 <!-- <img src="/images/sealfie-logo.svg"
      alt="Sealfie Logo"
